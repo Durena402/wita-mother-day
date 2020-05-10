@@ -1,0 +1,178 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FAA1C2;
+}
+
+header{
+    background-color: #3BD8DD;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    height:50%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: 30px groove white;
+}
+
+h2 {
+  font-size: 50px;
+  font-style: bold;
+  text-align: center;
+  border: 5px solid white;
+  width: 50%;
+  margin-left: 22%;
+  margin-top: 5%;
+  padding: 3%;
+  background-color: #DDC3D0;
+}
+.inputfirst {
+  font-size: 40px;
+  width: 25%;
+  margin-left: 8%;
+  margin-top: 5%;
+  padding: 1%;
+  background-color: #DBFCFF;
+  border: 5px solid white;
+}
+
+input:hover {
+  background-color: #3BD8DD;
+  color: white;
+}
+#rightFlower {
+  float: right;
+  width: 23%;
+}
+#leftFlower {
+  float: left;
+  width: 30%;
+}
+h3 {
+  font-size: 50px;
+  font-style: bold;
+  margin-top: 2%;
+  text-align: center;
+}
+ul {
+  background-color: #A594F9;
+  font-size: 40px;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 2%;
+}
+li {
+  color: white;
+  border-bottom: 2px dashed white;
+  padding: 2%;
+  list-style: none;
+}
+.inputsecond {
+  font-size: 40px;
+  width: 25%;
+  margin-left: 10%;
+  margin-top: 5%;
+  padding: 1%;
+  background-color: #DBFCFF;
+  border: 5px solid white;
+  float: left;
+  margin-bottom: 5%;
+}
+.inputsecondjr{
+  font-size: 40px;
+  width: 25%;
+  margin-right: 10% ;
+  margin-top: 5%;
+  padding: 1%;
+  background-color: #DBFCFF;
+  border: 5px solid white;
+  float: right;
+  margin-bottom: 5%;
+}
+#cruiseFamily {
+  width: 45%;
+  margin-top: 5%;
+  height: 35%;
+  margin-left: 2%;
+  float: left;
+}
+#pool {
+  width: 45%;
+  margin-top: 5%;
+  height: 35%;
+  margin-right: 2%;
+  float: right;
+}
+#christmasImage {
+  width: 45%;
+  margin-top: 5%;
+  height: 35%;
+  margin-right: 2%;
+  float: right;
+}
+#poolFamily {
+  width: 45%;
+  margin-top: 5%;
+  margin-left: 2%;
+  float: left;
+}
+#latte {
+  width: 45%;
+  margin-top: 5%;
+  height: 35%;
+  margin-left: 2%;
+  float: left;
+}
+#angeliseBirthday {
+  width: 45%;
+  margin-top: 5%;
+  height: 30%;
+  margin-left: 2%;
+  float: left;
+}
+#dad {
+  width: 45%;
+  margin-top: 5%;
+  height: 35%;
+  margin-right: 2%;
+  float: right;
+}
+#me {
+  width: 45%;
+  margin-top: 5%;
+  height: 45%;
+  margin-right: 2%;
+  float: right;
+}
+#myBirthday {
+  width: 60%;
+  margin-top: 5%;
+  height: 70%;
+  margin-left: 20%;
+}
+#mom {
+  width: 60%;
+  margin-top: 5%;
+  height: 70%;
+  margin-left: 20%;
+}
+#heart {
+  width: 60%;
+  margin-top: 5%;
+  height: 70%;
+  margin-left: 20%;
+}
+.inputthird {
+  font-size: 40px;
+  width: 30%;
+  margin-left: 35% ;
+  margin-top: 5%;
+  padding: 1%;
+  background-color: #DBFCFF;
+  border: 5px solid white;
+  margin-bottom: 5%;
+}
